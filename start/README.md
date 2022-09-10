@@ -30,3 +30,9 @@ starting_point_rwxrob.ovpn
 
 I keep these in the [vpn](vpn) directory but without actually committing
 them to GitHub.
+
+## Same "starting_point_\*.ovpn" file for free and vip
+
+Just a note that after comparing the `ovpn` files they are identical for
+the different pricing levels of HTB accounts.
+

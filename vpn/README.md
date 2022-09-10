@@ -7,4 +7,11 @@ where I keep the different `*.opvn` files required by HackTheBox.
 *
 */
 !.gitignore
+!README.md
+```
+Use the following from a dedicated TMUX window (named `VPN`) to start
+the required VPN:
+
+```
+sudo openvpn FILE.ovpn
 ```
