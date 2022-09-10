@@ -11,4 +11,5 @@
 * Considering adding challenges deployed with Ansible
 * Why are you on Windows?
 * Why are you so pedantic about hacking tools?
-* Review hacks of Meow and Fawn
+* Review hacks of Meow, Fawn, Dancing, Redeemer, Explosion
+

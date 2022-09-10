@@ -10,3 +10,5 @@ in KEG Mark, optional `data.yaml` and other files).
 * [Getting Started](start) - VPN setup gotchas, etc.
 * [Meow](meow)
 * [Fawn](fawn)
+* [Dancer](dancer)
+* [Redeemer](redeemer)
