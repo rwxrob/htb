@@ -1,4 +1,6 @@
-# 🔒🤔🧘💭🔑🔓🤑👍
+# HackTheBox
+
+🔒🤔🧘💭🔑🔓🤑👍
 
 This is a random collection of notes related to my work on HackTheBox
 challenges. I've only included things for which I need reminders. I've
@@ -10,5 +12,6 @@ in KEG Mark, optional `data.yaml` and other files).
 * [Getting Started](start) - VPN setup gotchas, etc.
 * [Meow](meow)
 * [Fawn](fawn)
-* [Dancer](dancer)
+* [Dancing](dancing)
 * [Redeemer](redeemer)
+* [Explosion](explosion)
