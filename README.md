@@ -10,9 +10,15 @@ This repo follows KEG conventions (one level deep, mandatory `README.md`
 in KEG Mark, optional `data.yaml` and other files).
 
 * [Getting Started](start) - VPN setup gotchas, etc.
+
+Tier 0
+
 * [Meow](meow)
 * [Fawn](fawn)
 * [Dancing](dancing)
 * [Redeemer](redeemer)
 * [Explosion](explosion)
 * [Preignition](preignition)
+
+Tier 1
+
