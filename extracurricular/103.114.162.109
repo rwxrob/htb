@@ -1,0 +1,16 @@
+root@skilstak:~# nmap -sV -Pn 103.114.162.109
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-09-18 00:47 UTC
+Nmap scan report for 103.114.162.109
+Host is up (0.064s latency).
+Not shown: 993 filtered ports
+PORT     STATE  SERVICE         VERSION
+20/tcp   closed ftp-data
+21/tcp   open   ftp             Pure-FTPd
+22/tcp   open   ssh             OpenSSH 7.4 (protocol 2.0)
+80/tcp   closed http
+443/tcp  closed https
+888/tcp  closed accessbuilder
+8888/tcp open   sun-answerbook?
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 19.75 seconds
