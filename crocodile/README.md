@@ -108,9 +108,16 @@ Nmap done: 1 IP address (1 host up) scanned in 6.84 seconds
 
 > What is the name of a handy web site analysis plug-in we can install in our browser?
 
+Wappalyzer
+
+* Wappalyzer - Technology profiler - Chrome Web Store  
+  https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
+
 ## Task 8
 
 > What switch can we use with gobuster to specify we are looking for specific filetypes?
+
+-x (from preignition)
 
 ## Task 9
 
